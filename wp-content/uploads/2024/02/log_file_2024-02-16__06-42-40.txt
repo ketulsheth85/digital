@@ -1,0 +1,32 @@
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - Search - Widget already exists
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+
+Store Sidebar : 
+
+Active Product Filters - No Title - Widget already exists
+Block - No Title - Widget already exists
+Filter Products by Rating - No Title - Widget already exists
+
+Widgets Area #1 : 
+
+Text - Find Us - Widget already exists
+
+Widgets Area #2 : 
+
+Text - About This Site - Widget already exists
+
+Widgets Area #3 : 
+
+Products list - Latest Products - Widget already exists
+
+Widgets Area #4 : 
+
+Search - Search - Widget already exists
+Block - No Title - Widget already exists
+
+
